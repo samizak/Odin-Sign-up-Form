@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-# odin-sign-up-form
-=======
 # Odin-Sign-up-Form
->>>>>>> 79d34a4d3ae4b65757ab4289214426b18ee78710
+
+## About
+
+A Simple Sign-up form built using HTML, CSS and Javascript for The Odin Project.
+
+## Live Preview
+
+https://samizak.github.io/Odin-Sign-up-Form
